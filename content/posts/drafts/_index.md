@@ -1,4 +1,2 @@
 ---
-cascade:
-  draft: true
 ---
